@@ -1,0 +1,5 @@
+manifest_version: 2
+artifacts:
+  setup_script: setup.sql
+  readme: README.md
+  default_streamlit: app_cost_estimator.permission_streamlit
